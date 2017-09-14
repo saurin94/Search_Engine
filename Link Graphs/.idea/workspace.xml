@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18d5ee8-a70a-4046-abfc-7b717d9e21fc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HW4$PageRankES_Final.coverage" NAME="PageRankES-Final Coverage Results" MODIFIED="1500320236580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$PageRank.coverage" NAME="PageRank Coverage Results" MODIFIED="1500667344708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$finalCodePageRankES.coverage" NAME="finalCodePageRankES Coverage Results" MODIFIED="1500670644683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$PageRankInlinks.coverage" NAME="PageRankInlinks Coverage Results" MODIFIED="1499803556692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$GETquery.coverage" NAME="GETquery Coverage Results" MODIFIED="1499889014596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$outlink_to_inlink_merged.coverage" NAME="outlink_to_inlink_merged Coverage Results" MODIFIED="1499900136292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$trial.coverage" NAME="trial Coverage Results" MODIFIED="1499833934366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$HITS.coverage" NAME="HITS Coverage Results" MODIFIED="1500671131686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW4$PageRankES.coverage" NAME="PageRankES Coverage Results" MODIFIED="1500658352991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HITS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HITS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="221" column="0" lean-forward="true" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+              <folding>
+                <element signature="e#383#519#0" expanded="false" />
+                <element signature="e#439#489#0" expanded="false" />
+                <element signature="e#547#677#0" expanded="false" />
+                <element signature="e#597#647#0" expanded="false" />
+                <element signature="e#711#1457#0" expanded="false" />
+                <element signature="e#946#1425#0" expanded="false" />
+                <element signature="e#1291#1386#0" expanded="false" />
+                <element signature="e#1489#1896#0" expanded="false" />
+                <element signature="e#1592#1881#0" expanded="false" />
+                <element signature="e#1609#1822#0" expanded="false" />
+                <element signature="e#1929#2286#0" expanded="false" />
+                <element signature="e#2016#2271#0" expanded="false" />
+                <element signature="e#2033#2221#0" expanded="false" />
+                <element signature="e#2314#2514#0" expanded="false" />
+                <element signature="e#2400#2499#0" expanded="false" />
+                <element signature="e#2545#3238#0" expanded="false" />
+                <element signature="e#2711#3198#0" expanded="false" />
+                <element signature="e#2728#3142#0" expanded="false" />
+                <element signature="e#2938#3142#0" expanded="false" />
+                <element signature="e#3257#4232#0" expanded="false" />
+                <element signature="e#3284#3323#0" expanded="false" />
+                <element signature="e#3386#4232#0" expanded="false" />
+                <element signature="e#3478#3707#0" expanded="false" />
+                <element signature="e#3546#3657#0" expanded="false" />
+                <element signature="e#3591#3657#0" expanded="false" />
+                <element signature="e#3883#4108#0" expanded="false" />
+                <element signature="e#3946#4064#0" expanded="false" />
+                <element signature="e#3992#4064#0" expanded="false" />
+                <element signature="e#5124#5566#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finalCodePageRankES.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="88" column="5" lean-forward="false" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+              <folding>
+                <element signature="e#263#396#0" expanded="false" />
+                <element signature="e#433#835#0" expanded="false" />
+                <element signature="e#586#803#0" expanded="false" />
+                <element signature="e#876#1114#0" expanded="false" />
+                <element signature="e#889#1060#0" expanded="false" />
+                <element signature="e#986#1060#0" expanded="false" />
+                <element signature="e#1171#1218#0" expanded="false" />
+                <element signature="e#1251#1294#0" expanded="false" />
+                <element signature="e#1338#1382#0" expanded="false" />
+                <element signature="e#1437#1727#0" expanded="false" />
+                <element signature="e#1515#1669#0" expanded="false" />
+                <element signature="e#1608#1669#0" expanded="false" />
+                <element signature="e#1876#2260#0" expanded="false" />
+                <element signature="e#1966#2236#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WT21-B37-76</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PageRankWT2G.py" />
+        <option value="$PROJECT_DIR$/PageRankInlinks.py" />
+        <option value="$PROJECT_DIR$/trial.py" />
+        <option value="$PROJECT_DIR$/GETquery.py" />
+        <option value="$PROJECT_DIR$/outlink_to_inlink_merged.py" />
+        <option value="$PROJECT_DIR$/PageRankES.py" />
+        <option value="$PROJECT_DIR$/PageRank.py" />
+        <option value="$PROJECT_DIR$/authority_links_top_500.txt" />
+        <option value="$PROJECT_DIR$/finalCodePageRankES.py" />
+        <option value="$PROJECT_DIR$/HITS.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW5trial" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.HITS">
+    <configuration default="false" name="PageRankES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageRankES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HITS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HITS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PageRankES-Final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageRankES-Final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="finalCodePageRankES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finalCodePageRankES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PageRank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageRank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="HW4" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW4" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.PageRankES" />
+      <item index="1" class="java.lang.String" itemvalue="Python.HITS" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PageRankES-Final" />
+      <item index="3" class="java.lang.String" itemvalue="Python.finalCodePageRankES" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PageRank" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.HITS" />
+        <item index="1" class="java.lang.String" itemvalue="Python.finalCodePageRankES" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PageRank" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PageRankES" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PageRankES-Final" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18d5ee8-a70a-4046-abfc-7b717d9e21fc" name="Default" comment="" />
+      <created>1499723348353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499723348353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3464448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34042552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44680852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34042552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3464448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44680852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+          <folding>
+            <element signature="e#263#396#0" expanded="false" />
+            <element signature="e#433#835#0" expanded="false" />
+            <element signature="e#586#803#0" expanded="false" />
+            <element signature="e#876#1114#0" expanded="false" />
+            <element signature="e#889#1060#0" expanded="false" />
+            <element signature="e#986#1060#0" expanded="false" />
+            <element signature="e#1171#1218#0" expanded="false" />
+            <element signature="e#1251#1294#0" expanded="false" />
+            <element signature="e#1338#1382#0" expanded="false" />
+            <element signature="e#1437#1727#0" expanded="false" />
+            <element signature="e#1515#1669#0" expanded="false" />
+            <element signature="e#1608#1669#0" expanded="false" />
+            <element signature="e#1876#2260#0" expanded="false" />
+            <element signature="e#1966#2236#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#263#396#0" expanded="false" />
+            <element signature="e#433#835#0" expanded="false" />
+            <element signature="e#586#803#0" expanded="false" />
+            <element signature="e#876#1114#0" expanded="false" />
+            <element signature="e#889#1060#0" expanded="false" />
+            <element signature="e#986#1060#0" expanded="false" />
+            <element signature="e#1171#1218#0" expanded="false" />
+            <element signature="e#1251#1294#0" expanded="false" />
+            <element signature="e#1338#1382#0" expanded="false" />
+            <element signature="e#1437#1727#0" expanded="false" />
+            <element signature="e#1515#1669#0" expanded="false" />
+            <element signature="e#1608#1669#0" expanded="false" />
+            <element signature="e#1876#2260#0" expanded="false" />
+            <element signature="e#1966#2236#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outlink_to_inlink_merged.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="106" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outlink_to_inlink_merged.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankInlinks.py" />
+    <entry file="file://$PROJECT_DIR$/PageRankES-Final.py" />
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1926">
+          <caret line="110" column="15" lean-forward="true" selection-start-line="110" selection-start-column="15" selection-end-line="110" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankWT2G.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="1017" column="0" lean-forward="false" selection-start-line="1017" selection-start-column="0" selection-end-line="1017" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankInlinks.py" />
+    <entry file="file://$PROJECT_DIR$/out_link_merged_get.txt" />
+    <entry file="file://$PROJECT_DIR$/GETquery.py" />
+    <entry file="file://$PROJECT_DIR$/baseSetUrls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17729">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankES-Final.py" />
+    <entry file="file://$PROJECT_DIR$/Files/outlinks.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out-linkgraph_deli.txt" />
+    <entry file="file://$PROJECT_DIR$/outlink_to_inlink_merged.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es_merged_inlink_count.txt" />
+    <entry file="file://$PROJECT_DIR$/linkgraph_generated.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wt2g_inlink_count.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_wt2g_inlink_count.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageRank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="141" column="31" lean-forward="false" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hub_links_top_500.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="89" lean-forward="true" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalCodePageRankES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="88" column="5" lean-forward="false" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+          <folding>
+            <element signature="e#263#396#0" expanded="false" />
+            <element signature="e#433#835#0" expanded="false" />
+            <element signature="e#586#803#0" expanded="false" />
+            <element signature="e#876#1114#0" expanded="false" />
+            <element signature="e#889#1060#0" expanded="false" />
+            <element signature="e#986#1060#0" expanded="false" />
+            <element signature="e#1171#1218#0" expanded="false" />
+            <element signature="e#1251#1294#0" expanded="false" />
+            <element signature="e#1338#1382#0" expanded="false" />
+            <element signature="e#1437#1727#0" expanded="false" />
+            <element signature="e#1515#1669#0" expanded="false" />
+            <element signature="e#1608#1669#0" expanded="false" />
+            <element signature="e#1876#2260#0" expanded="false" />
+            <element signature="e#1966#2236#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linkgraph_queried.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authority_links_top_500.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="239" column="33" lean-forward="true" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_es_merged_inlink_count.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_es_links_top_500.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="76" lean-forward="true" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HITS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="221" column="0" lean-forward="true" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding>
+            <element signature="e#383#519#0" expanded="false" />
+            <element signature="e#439#489#0" expanded="false" />
+            <element signature="e#547#677#0" expanded="false" />
+            <element signature="e#597#647#0" expanded="false" />
+            <element signature="e#711#1457#0" expanded="false" />
+            <element signature="e#946#1425#0" expanded="false" />
+            <element signature="e#1291#1386#0" expanded="false" />
+            <element signature="e#1489#1896#0" expanded="false" />
+            <element signature="e#1592#1881#0" expanded="false" />
+            <element signature="e#1609#1822#0" expanded="false" />
+            <element signature="e#1929#2286#0" expanded="false" />
+            <element signature="e#2016#2271#0" expanded="false" />
+            <element signature="e#2033#2221#0" expanded="false" />
+            <element signature="e#2314#2514#0" expanded="false" />
+            <element signature="e#2400#2499#0" expanded="false" />
+            <element signature="e#2545#3238#0" expanded="false" />
+            <element signature="e#2711#3198#0" expanded="false" />
+            <element signature="e#2728#3142#0" expanded="false" />
+            <element signature="e#2938#3142#0" expanded="false" />
+            <element signature="e#3257#4232#0" expanded="false" />
+            <element signature="e#3284#3323#0" expanded="false" />
+            <element signature="e#3386#4232#0" expanded="false" />
+            <element signature="e#3478#3707#0" expanded="false" />
+            <element signature="e#3546#3657#0" expanded="false" />
+            <element signature="e#3591#3657#0" expanded="false" />
+            <element signature="e#3883#4108#0" expanded="false" />
+            <element signature="e#3946#4064#0" expanded="false" />
+            <element signature="e#3992#4064#0" expanded="false" />
+            <element signature="e#5124#5566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

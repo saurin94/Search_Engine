@@ -1,0 +1,36 @@
+
+1.Your seed urls i.e. urls in your first frontier:
+- seed1 = "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+- seed2 = "https://en.wikipedia.org/wiki/Illegal_immigration"
+- seed3 = "https://www.theguardian.com/us-news/2017/jan/27/donald-trump-executive-order-immigration-full-text"
+- seed4 = "https://www.whitehouse.gov/the-press-office/2017/01/27/executive-order-protecting-nation-foreign-terrorist-entry-united-states"
+- seed5 = "https://www.usatoday.com/story/news/world/2017/01/28/what-you-need-know-trumps-refugee-ban/97183112/"
+- seed6 = "https://www.usatoday.com/story/news/politics/2017/02/20/donald-trump-set-to-issue-new-revised-travel-ban-against-majority-muslim-countries/98167072/"
+- seed7 = "http://www.cnn.com/2017/01/28/politics/donald-trump-executive-order-immigration-reaction/index.html"
+
+
+2.Count of unique urls indexed individually
+- 22700 (Saurin)
+- 74000 (Sushant)
+- 30300 (Koosh)
+
+Time take to crawl
+- 7 hours
+
+Total disk space size of your crawl or ES index size if applicable for Individual crawl
+- 4.6 gb
+
+Time taken to merge
+- 6 hours
+
+Count of unique urls in Merged Index
+- 127100
+
+Merged ES index size
+- 21.7gb
+
+How do you decide which links to put in your Frontier list and which to ignore.
+- Whichever ones have certain keywords for example : "Donald", "Trump", "immigration", "policy", etc are all given equal priority and others are ignored
+
+How do you decide which link to crawl next, from your Frontier list.
+- As all are of equal priority, The next element in Frontier List can be taken as it will normal BFS
